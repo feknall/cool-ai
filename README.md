@@ -25,3 +25,7 @@ https://lilianweng.github.io/lil-log/
 Gym Retro
 
 https://openai.com/blog/gym-retro/
+
+AI Crowd
+
+https://www.aicrowd.com
