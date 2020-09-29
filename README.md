@@ -29,3 +29,7 @@ https://openai.com/blog/gym-retro/
 AI Crowd
 
 https://www.aicrowd.com
+
+Will Kwan
+
+http://willkwan.tech/my-favorite-resources-for-learning-ai/
