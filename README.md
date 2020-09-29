@@ -14,3 +14,8 @@ Highway simulator
 
 https://github.com/eleurent/highway-env
 
+Spinning Up AI
+https://spinningup.openai.com/en/latest/index.html
+
+Lilian Weng
+https://lilianweng.github.io/lil-log/
