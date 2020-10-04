@@ -33,3 +33,6 @@ https://www.aicrowd.com
 Will Kwan
 
 http://willkwan.tech/my-favorite-resources-for-learning-ai/
+
+CNN Explainer
+https://poloclub.github.io/cnn-explainer/
