@@ -42,3 +42,5 @@ https://pygame-learning-environment.readthedocs.io/en/latest/index.html
 https://battlecode.org/
 
 https://rlenv.directory/
+
+https://openai.com/blog/universe/
