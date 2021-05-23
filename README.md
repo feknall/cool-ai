@@ -48,3 +48,5 @@ https://openai.com/blog/universe/
 https://github.com/openai/retro
 
 https://gym.openai.com/
+
+https://github.com/MattChanTK/gym-maze
