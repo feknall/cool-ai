@@ -34,6 +34,8 @@ Will Kwan
 
 http://willkwan.tech/my-favorite-resources-for-learning-ai/
 
+https://github.com/hardmaru/slimevolleygym
+
 CNN Explainer
 https://poloclub.github.io/cnn-explainer/
 
