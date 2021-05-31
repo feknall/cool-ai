@@ -52,3 +52,5 @@ https://github.com/openai/retro
 https://gym.openai.com/
 
 https://github.com/MattChanTK/gym-maze
+
+https://github.com/deepmind/open_spiel
