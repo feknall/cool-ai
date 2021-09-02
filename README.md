@@ -3,7 +3,7 @@ List of cool things about AI training
 
 A repository like super slime soccer
 
-https://github.com/hardmaru/slimevolleygym
+https://github.com/hardmaru/slimevolleygym 7/10
 
 
 A lane following repo
