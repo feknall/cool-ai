@@ -66,3 +66,9 @@ https://github.com/ArthurFirmino/gym-battlesnake 7/10
 https://github.com/bark-simulator/bark-ml 9/10
 
 https://github.com/bstriner/gym-traffic 7/10
+
+https://github.com/deepdrive/deepdrive 7/10
+
+https://github.com/elvisyjlin/lf2gym 6/10
+
+https://github.com/EmbersArc/gym-rocketlander 7/10
