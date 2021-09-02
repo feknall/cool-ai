@@ -58,3 +58,5 @@ https://github.com/deepmind/open_spiel
 https://github.com/koulanurag/ma-gym 7/10
 
 https://github.com/haje01/gym-tictactoe 6/10
+
+https://github.com/rgal/gym-2048 6/10
