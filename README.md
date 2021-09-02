@@ -64,3 +64,5 @@ https://github.com/rgal/gym-2048 6/10
 https://github.com/ArthurFirmino/gym-battlesnake 7/10
 
 https://github.com/bark-simulator/bark-ml 9/10
+
+https://github.com/bstriner/gym-traffic 7/10
