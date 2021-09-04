@@ -74,3 +74,7 @@ https://github.com/elvisyjlin/lf2gym 6/10
 https://github.com/EmbersArc/gym-rocketlander 7/10
 
 https://github.com/Unity-Technologies/ml-agents 8/10
+
+https://github.com/chuyangliu/snake 8/10
+
+https://github.com/geek-ai/MAgent 8/10 Tested, but didn't work
