@@ -78,3 +78,5 @@ https://github.com/Unity-Technologies/ml-agents 8/10
 https://github.com/chuyangliu/snake 8/10
 
 https://github.com/geek-ai/MAgent 8/10 Tested, but didn't work
+
+https://terminal.c1games.com/playground
