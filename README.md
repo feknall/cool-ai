@@ -80,3 +80,13 @@ https://github.com/chuyangliu/snake 8/10
 https://github.com/geek-ai/MAgent 8/10 Tested, but didn't work
 
 https://terminal.c1games.com/playground
+
+https://halite.io/
+
+https://www.lux-ai.org/
+
+https://www.codingame.com/ 7/10
+
+https://github.com/deepmind/lab
+
+https://github.com/deepmind/spriteworld 8/10
