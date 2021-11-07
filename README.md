@@ -13,7 +13,10 @@ List of cool things about AI training
 - A beautiful 2D environment for basic and advanced autonomous driving tasks
 - Score: 8/10
 
-https://github.com/eleurent/highway-env
+![highway-env](_doc/highway-env-1.gif)
+![highway-env](_doc/highway-env-2.gif)
+![highway-env](_doc/highway-env-3.gif)
+![highway-env](_doc/highway-env-4.gif)
 
 Spinning Up AI
 
