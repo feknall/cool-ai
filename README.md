@@ -1,5 +1,5 @@
-# cool ai repositories
-List of cool things about AI training
+# cool ai environments
+This repository contains a list of cool AI environments
 
 ## [slimevolleygym](https://github.com/hardmaru/slimevolleygym)
 - A cool 2D game with some basic functionalities
