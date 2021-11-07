@@ -1,4 +1,4 @@
-# cool ai environments
+# Cool AI Environments
 This repository contains a list of cool AI environments
 
 ## [slimevolleygym](https://github.com/hardmaru/slimevolleygym)
