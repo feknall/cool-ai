@@ -1,16 +1,17 @@
 # cool ai repositories
 List of cool things about AI training
 
-A repository like super slime soccer
+## [slimevolleygym](https://github.com/hardmaru/slimevolleygym)
+- A cool 2D game with some basic functionalities
+- Score: 7/10
 
-https://github.com/hardmaru/slimevolleygym 7/10
+![slimevolleygym](_doc/slimevolleygym.gif)
 
 
-A lane following repo
 
-https://github.com/duckietown/gym-duckietown
-
-Highway simulator
+## [highway-env](https://github.com/eleurent/highway-env)
+- A beautiful 2D environment for basic and advanced autonomous driving tasks
+- Score: 8/10
 
 https://github.com/eleurent/highway-env
 
@@ -90,3 +91,8 @@ https://www.codingame.com/ 7/10
 https://github.com/deepmind/lab
 
 https://github.com/deepmind/spriteworld 8/10
+
+
+A lane following repo
+
+https://github.com/duckietown/gym-duckietown
